@@ -1,9 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
 ## About
-Sergey Konstantinov
-PhD in Engineering, Associate Professor at RUDN University
-ORCID: [Link to ORCID profile](https://orcid.org/0000-0003-3493-7865)
+Sergey Konstantinov, PhD in Engineering, Associate Professor at RUDN University
 
 ## Interests & Expertise
 - Optimal Control and Optimization Algorithms
